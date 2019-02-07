@@ -70,4 +70,4 @@ Break down the process of getting food at a restaurant.
   7.4. Open door
     7.4.1. Place hand on handle
     7.4.2. Pull or push depending on sign
-  7.5. Walk through door
+  7.5. Walk through door 
