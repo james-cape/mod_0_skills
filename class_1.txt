@@ -1,0 +1,6 @@
+Class that might exist in a restaurant
+
+Class: Drink
+  Attributes:
+    serving_temp(integer)
+    
